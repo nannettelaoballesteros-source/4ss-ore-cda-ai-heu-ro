@@ -1,18 +1,25 @@
-# 4SS-ORE-CARPE-DIEM-AQUARIUM-AI
+# 4SS-ORE CARPE DIEM AQUARIUM- (4SS-ORE AI)
 ### Multi-Node Hardware-Gated AI Context Partitioning Architecture (MCCS-01 / MCCS-02)
 
+**Dynamic Hardware-Enforced Context Compartmentalization & Isolation Matrices for Multi-Agent Runtimes**
+
+* **Status:** Public Technical Preview and Open System Architecture
+* **Statutory Priority:** USPTO Priority Application No. 64/170,259
+* **Release Wave:** System 3 of 3 (Silicon & Neural Partitioning Rollout)
+* **IP Origin:** Delta Nannette Omega - Yeoman LLC (DNO-Y)
+* **Open-Source Steward:** BNG Global Humanitarian Foundation (BNG-GHF)
+* **Industrial & Enterprise Licensing:** Ballesteros Ballast Infrastructure LLC (BBI) / Delta Nannette Omega - Yeoman LLC (DNO-Y)
+* **License:** Dual MIT / Apache License, Version 2.0 (Where Designated)
+
 ---
 
-## 1. Executive & Architectural Overview
-**4SS-ORE-CARPE-DIEM-AQUARIUM-AI** defines a hardware-enforced, multi-tier isolation framework for generative AI runtime environments, autonomous agents, and multi-agent coordination lattices. 
+## 1. System Overview
 
-Traditional software-only sandboxing leaves multi-tenant context windows, prompt caches, and shared memory pipelines vulnerable to cross-context injection, memory exfiltration, and unauthorized privilege escalation. The Carpe Diem Aquarium architecture replaces probabilistic software guards with deterministic, hardware-gated isolation boundaries.
-
-By anchoring context partitions across dedicated solid-state execution nodes (4SS), this framework guarantees that operational telemetry, secure memory registers, and proprietary prompt weights remain physically and logically uncompromised.
+**4SS-ORE-CARPE-DIEM-AQUARIUM-AI** is a deterministic, hardware-gated context partitioning framework engineered for secure generative AI runtime environments, autonomous agents, and multi-agent coordination lattices. Originating from Delta Nannette Omega - Yeoman LLC (DNO-Y) and open-sourced via the BNG Global Humanitarian Foundation (BNG-GHF), the architecture replaces probabilistic software guards with deterministic, bus-level physical isolation boundaries. Commercial deployments, proprietary enterprise integration suites, and solid-state silicon controllers remain under separate commercial license with Ballesteros Ballast Infrastructure LLC (BBI) and Delta Nannette Omega - Yeoman LLC (DNO-Y).
 
 ---
 
-## 2. Structural Specifications & Core Modules
+## 2. Core Functional Features & Modules
 
 * **MCCS-01 (Multi-Context Compartmentalization Subsystem 01):**
   * Hardware-gated execution partitions isolating untrusted real-time sensory inputs from core decision models.
@@ -26,24 +33,26 @@ By anchoring context partitions across dedicated solid-state execution nodes (4S
 
 ---
 
-## 3. Intellectual Property Notice & Prior Art Anchoring
+## 3. Statutory & Prior Art Notice
 
-> **NOTICE:** The systems, structural specifications, hardware designs, bus partition methodologies, and orchestration paradigms detailed in this repository are subject to one or more pending patent applications with the United States Patent and Trademark Office (USPTO), including:
+> **PRIORITY & PRIOR ART NOTICE:** The systems, structural specifications, hardware designs, bus partition methodologies, and orchestration paradigms detailed in this repository are subject to one or more pending patent applications with the United States Patent and Trademark Office (USPTO), including:
 >
-> * **U.S. Provisional Patent Application Serial No. 64/170,259** (*Carpe Diem Aquarium Architecture / Multi-Node Partitioning Mechanics*)
+> * **U.S. Provisional Patent Application Serial No.:** 64/170,259 (*Carpe Diem Aquarium Architecture / Multi-Node Partitioning Mechanics*)
 > * **USPTO Filing Date:** October 6, 2026
 > * **Lead Inventor / Architect:** Nannette Lao Ballesteros
-> * **Assignee / Operating Entity:** Delta Nannette Omega - Yeoman LLC / Ballesteros Ballast Infrastructure (BBI)
-
-This public release constitutes a formal priority and prior-art timestamp for all novel hardware topologies, context containment methods, and solid-state AI governance mechanisms documented herein.
+> * **IP Origin & Proprietary Control:** Delta Nannette Omega - Yeoman LLC (DNO-Y)
+>
+> This release constitutes a formal statutory timestamp for all novel hardware topologies, context containment methods, and solid-state AI governance mechanisms documented herein.
 
 ---
 
 ## 4. Open-Source Licensing Framework
 
-All structural framework specifications, interface definitions, and schema files contained within this repository are distributed under dual open-source licensing to encourage broad developer adoption while safeguarding foundational architecture:
+All structural framework specifications, interface definitions, mechanical schematics, and schema files contained within this repository are released as a public gift through the **BNG Global Humanitarian Foundation (BNG-GHF)** for non-profit research, architectural standardization, and humanitarian adoption.
 
-* **MIT License** — Permissive use for interface schematics, API adapters, and educational implementations.
-* **Apache License, Version 2.0** — Governs system reference implementations, explicit patent rights grants, and architectural standards.
+Subject to the active license designated in the repository metadata and root license files, the following terms apply where applicable:
 
-For enterprise integration, proprietary implementations, or dedicated licensing inquiries regarding foundational claims under U.S. Serial No. 64/170,259, contact **Delta Nannette Omega - Yeoman LLC**.
+* **MIT License (Where Designated):** Applies to open interface schematics, API adapters, data definitions, and educational implementations to maximize interoperability.
+* **Apache License, Version 2.0 (Where Designated):** Applies to structural specifications, reference implementations, and physical/silicon architectures, granting royalty-free, non-exclusive patent permissions strictly bounded by Apache 2.0 terms.
+
+For enterprise integration, proprietary implementations, or dedicated licensing inquiries regarding foundational claims under active USPTO filings, contact **Delta Nannette Omega - Yeoman LLC (DNO-Y)** and **Ballesteros Ballast Infrastructure LLC (BBI)**.
