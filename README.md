@@ -36,7 +36,7 @@
 
 > **PRIORITY & PRIOR ART NOTICE:** The systems, structural specifications, hardware designs, bus partition methodologies, and orchestration paradigms detailed in this repository are subject to one or more pending patent applications with the United States Patent and Trademark Office (USPTO), including:
 >
-> * **U.S. Provisional Patent Application Serial No.:** 64/170,259 (*Carpe Diem Aquarium Architecture / Multi-Node Partitioning Mechanics*)
+> * **U.S. Provisional Patent Application Serial No.:** 64/170,259
 > * **USPTO Filing Date:** October 6, 2026
 > * **Lead Inventor / Architect:** Nannette Lao Ballesteros
 > * **IP Origin & Proprietary Control:** Delta Nannette Omega - Yeoman LLC (DNO-Y)
