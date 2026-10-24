@@ -1,4 +1,4 @@
-# 4SS-ORE CARPE DIEM AQUARIUM- (4SS-ORE AI)
+# CARPE DIEM AQUARIUM- (4SS-ORE AI)
 ### Multi-Node Hardware-Gated AI Context Partitioning Architecture (MCCS-01 / MCCS-02)
 
 **Dynamic Hardware-Enforced Context Compartmentalization & Isolation Matrices for Multi-Agent Runtimes**
