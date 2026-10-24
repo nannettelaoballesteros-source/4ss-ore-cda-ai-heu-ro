@@ -1,4 +1,4 @@
-# Carpe Diem Aquariumm (4SS-ORE AI)
+# Carpe Diem Aquariumm (4SS-ORE AI-HEU-RO)
 ### Multi-Node Hardware-Gated AI Context Partitioning Architecture (MCCS-01 / MCCS-02)
 
 **Dynamic Hardware-Enforced Context Compartmentalization & Isolation Matrices for Multi-Agent Runtimes**
@@ -15,7 +15,7 @@
 
 ## 1. System Overview
 
-**4SS-ORE-CARPE-DIEM-AQUARIUM-AI** is a deterministic, hardware-gated context partitioning framework engineered for secure generative AI runtime environments, autonomous agents, and multi-agent coordination lattices. Originating from Delta Nannette Omega - Yeoman LLC (DNO-Y) and open-sourced via the BNG Global Humanitarian Foundation (BNG-GHF), the architecture replaces probabilistic software guards with deterministic, bus-level physical isolation boundaries. Commercial deployments, proprietary enterprise integration suites, and solid-state silicon controllers remain under separate commercial license with Ballesteros Ballast Infrastructure LLC (BBI) and Delta Nannette Omega - Yeoman LLC (DNO-Y).
+**4SS-ORE-CDA-AI-HEU-RO** is a deterministic, hardware-gated context partitioning framework engineered for secure generative AI runtime environments, autonomous agents, and multi-agent coordination lattices. Originating from Delta Nannette Omega - Yeoman LLC (DNO-Y) and open-sourced via the BNG Global Humanitarian Foundation (BNG-GHF), the architecture replaces probabilistic software guards with deterministic, bus-level physical isolation boundaries. Commercial deployments, proprietary enterprise integration suites, and solid-state silicon controllers remain under separate commercial license with Ballesteros Ballast Infrastructure LLC (BBI) and Delta Nannette Omega - Yeoman LLC (DNO-Y).
 
 ---
 
