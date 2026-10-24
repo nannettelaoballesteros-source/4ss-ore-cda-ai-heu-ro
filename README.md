@@ -5,7 +5,6 @@
 
 * **Status:** Public Technical Preview and Open System Architecture
 * **Statutory Priority:** USPTO Priority Application No. 64/170,259
-* **Release Wave:** System 3 of 3 (Silicon & Neural Partitioning Rollout)
 * **IP Origin:** Delta Nannette Omega - Yeoman LLC (DNO-Y)
 * **Open-Source Steward:** BNG Global Humanitarian Foundation (BNG-GHF)
 * **Industrial & Enterprise Licensing:** Ballesteros Ballast Infrastructure LLC (BBI) / Delta Nannette Omega - Yeoman LLC (DNO-Y)
